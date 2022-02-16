@@ -24,7 +24,7 @@ O projeto se trata de um script onde executa calculos para saber:
 O script ainda possui a opção de adicionar novas pessoas e atualizar os dados. "Anexando as pessoas ao arquivo ("dados.txt")".
 Como base o script utiliza um arquivo chamado "dados.txt", onde contem a quantidade de pessoas cadastradas e suas informações.
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90626610/154183164-eae8c201-6ac4-41f7-a794-700b95ed844d.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/90626610/154183614-74af2beb-a04d-44a0-ac76-82b078a7fea5.png" width="400px" />
   <img src="https://user-images.githubusercontent.com/90626610/154183163-c01241a0-200d-4e1d-ba65-b9315fdbd842.png" width="400px" />
 Para funcionamento rodar o arquivo "menu interface".
 
